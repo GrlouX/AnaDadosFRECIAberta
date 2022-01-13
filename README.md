@@ -9,16 +9,14 @@ Em "dados_brutos", encontra-se o conjunto de dados extraídos diretamente da fon
 
 Contém os dicionários de dados para cada tabela extraída da fonte, além do plano de análise de dados proposto, o qual é executado nos scripts "proc-aed_freciab.ipynb" e "rel-vis_freciab.ipynb".
 
-<!--
 ## Algumas visualizações resultantes da análise
 
 <div align="center">
 
-![compos_aconpn]()
+![compos_aconpn](https://user-images.githubusercontent.com/90117229/149409561-6e15d5ed-a521-41fc-abd1-2df6bd5e5880.png)
 
-![rel-rem-gov]()
+![rel-rem-gov](https://user-images.githubusercontent.com/90117229/149409698-dbcac40e-4c2f-4f47-a8f3-bcc16296dce1.png)
 
-![carg-part]()
+![carg-part](https://user-images.githubusercontent.com/90117229/149409764-48324e87-62ea-4d56-90b2-0468a76eee81.png)
   
-</div>  
--->
+</div>
